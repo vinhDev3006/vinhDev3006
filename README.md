@@ -1,4 +1,4 @@
-
+![](assets/svg/bottom_bar.svg)
 # 💫 About Me:
 ## 🤖 Currently working on:
 - Developing an AI project using PyTorch and TensorFlow🔬🤖
