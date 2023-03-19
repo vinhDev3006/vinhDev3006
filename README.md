@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Ngọc Vĩnh</h1>
-<h3 align="center">I am a skilled full-stack developer with a keen interest and expertise in the fields of artificial intelligence and machine learning. With a strong passion for technology and a drive to innovate, I constantly seek to expand my knowledge and stay up-to-date with the latest trends and advancements in the industry. My experience and expertise enable me to develop comprehensive and efficient solutions that meet the needs of businesses and individuals alike, and I am committed to delivering high-quality work that exceeds expectations.</h3>
+<h4 align="center">Experienced full-stack developer with a passion for AI and machine learning, committed to delivering high-quality solutions.</h4>
 
-<img align="center" alt="Coding" width="400" src="https://media4.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif?cid=ecf05e47kjvvvi6id1crq2reimmrm5zdf609z103l5di4dzy&rid=giphy.gif&ct=g">
+<img align="center" alt="Coding" src="https://media4.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif?cid=ecf05e47kjvvvi6id1crq2reimmrm5zdf609z103l5di4dzy&rid=giphy.gif&ct=g">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vinhdev3006&label=Profile%20views&color=0e75b6&style=flat" alt="vinhdev3006" /> </p>
 
