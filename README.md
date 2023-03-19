@@ -1,20 +1,20 @@
 # 💫 About Me:
-# 🤖 Currently working on:
+## 🤖 Currently working on:
 - Developing an AI project using PyTorch and TensorFlow🔬🤖
 - Designing and coding a dynamic website using ReactJS and NodeJS 🌐💻
-# 🤝 Looking to collaborate on:
+## 🤝 Looking to collaborate on:
 - Open-source projects related to machine learning or web development 🌟💻
 - Building impactful applications that solve real-world problems 🤔🚀
 - Learning new skills and exploring interesting ideas with other developers 👯👨‍💻
-# 📚 Currently learning:
+## 📚 Currently learning:
 - PyTorch for deep learning and neural network development 🧠🤖
 - Selenium for web testing and automation 🌐🔍
 - Exploring new technologies and frameworks to expand my skillset 🤔📖
-# 💬 Ask me about:
+## 💬 Ask me about:
 - AI and machine learning projects I've worked on 🤖🔬
 - Web development and design best practices 🌐💻
 - Tips and tricks for staying productive and motivated while coding 💪🚀
-# 💪 Also:
+## 💪 Also:
 - A fitness enthusiast and gym lover 🏋️‍♀️🏋️‍♂️
 - Passionate about health and wellness, and exploring new ways to stay active and healthy 🍎🏃‍♀️
 
@@ -41,3 +41,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=vinhDev3006&icon=1&color=4)](https://visitcount.itsvg.in)
 
+![](assets/svg/bottom_bar.svg)
