@@ -1,5 +1,5 @@
 ![](assets/svg/up_bar.svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi!+Welcome+to+my+Github+Profile;Be+free+to+look+around!+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&center=true&vCenter=true&width=435&lines=Hi!+Welcome+to+my+Github+Profile;Be+free+to+look+around!+%F0%9F%98%8A)](https://git.io/typing-svg)
 # 💫 About Me:
 ## 🤖 Currently working on:
 - Developing an AI project using PyTorch and TensorFlow🔬🤖
