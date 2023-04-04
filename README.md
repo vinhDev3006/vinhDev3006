@@ -48,6 +48,8 @@
 
 
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=vinhDev3006&theme=react-dark&hide_border=true&area=true)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vinhDev3006&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
