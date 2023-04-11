@@ -18,7 +18,7 @@
 ## 💬 Ask me about:
 - AI and machine learning projects I've worked on 🤖🔬
 - Web development and design best practices 🌐💻
-- Tips and tricks for staying productive and motivated while coding 💪🚀
+- Tips and tricks for staying productive and motivated while coding 😊🚀
 ## 💪 Also:
 - A fitness enthusiast and gym lover 🏋️‍♀️🏋️‍♂️
 - Passionate about health and wellness, and exploring new ways to stay active and healthy 🍎🏃‍♀️
