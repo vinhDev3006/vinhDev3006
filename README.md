@@ -54,7 +54,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=vinhDev3006&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15)
 
 ### ✍️ Random Dev Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccino_mocha&layout=wide)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 [![](https://visitcount.itsvg.in/api?id=vinhDev3006&icon=1&color=4)](https://visitcount.itsvg.in)
 
