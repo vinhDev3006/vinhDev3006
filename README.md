@@ -54,8 +54,16 @@
 ![](https://github-profile-trophy.vercel.app/?username=vinhDev3006&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15)
 
 ### ✍️ Random Dev Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccino_mocha&layout=wide)](https://github.com/piyushsuthar/github-readme-quotes)
+<style>
+.quotes-container {
+    max-width: 600px; /* change the value to adjust the width */
+    margin: 0 auto; /* center the container */
+}
+</style>
 
+<div class="quotes-container">
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccino_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=vinhDev3006&icon=1&color=4)](https://visitcount.itsvg.in)
 
