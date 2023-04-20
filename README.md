@@ -60,3 +60,9 @@
 [![](https://visitcount.itsvg.in/api?id=vinhDev3006&icon=1&color=4)](https://visitcount.itsvg.in)
 
 ![](assets/svg/bottom_bar.svg)
+
+
+#🌨️ Task List
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
