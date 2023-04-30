@@ -9,7 +9,7 @@
 ## 🤖 Currently working on:
 
 - Developing an AI project using PyTorch and TensorFlow🔬🤖
-- Designing and coding a dynamic website using ReactJS and NodeJS 🌐💻
+- Designing and coding a dynamic website using NextJS 🌐💻
 
 ## 🤝 Looking to collaborate on:
 
