@@ -6,17 +6,7 @@
 
 # 💫 About Me:
 
-## 📚 Currently learning:
-
-- Tensorflow and Pytorch for deep learning and neural network development 🧠🤖
-- Selenium for web testing and automation 🌐🔍
-- Exploring new technologies and frameworks to expand my skillset 🤔📖
-
-
-## 💪 Also:
-
-- A fitness enthusiast and gym lover 🏋️‍♀️🏋️‍♂️
-- Passionate about health and wellness, and exploring new ways to stay active and healthy 🍎🏃‍♀️
+I am deeply passionate about the exciting realms of Artificial Intelligence and Machine Learning, with a strong foundation in TensorFlow and PyTorch for developing cutting-edge neural networks. I thrive on exploring the latest technologies and frameworks to continuously expand my skill set. Beyond the digital world, I am a fitness enthusiast, dedicating myself to health and wellness, always on the lookout for innovative ways to stay active and maintain a strong and healthy lifestyle.
 
 ## 🌐 Socials:
 
