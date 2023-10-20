@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-I am deeply passionate about the exciting realms of Artificial Intelligence and Machine Learning, with a strong foundation in TensorFlow and PyTorch for developing cutting-edge neural networks. I thrive on exploring the latest technologies and frameworks to continuously expand my skill set. Beyond the digital world, I am a fitness enthusiast, dedicating myself to health and wellness, always on the lookout for innovative ways to stay active and maintain a strong and healthy lifestyle.
+I am deeply passionate about the exciting realms of AI and machine learning, with a strong foundation in TensorFlow and PyTorch for developing cutting-edge neural networks. 🤖 I thrive on exploring the latest technologies and frameworks to continuously expand my skill set. 💡 Beyond the digital world, I am a fitness enthusiast, dedicating myself to health and wellness, always on the lookout for innovative ways to stay active and maintain a strong and healthy lifestyle. 💪🏋️‍♂️🌱
 
 ## 🌐 Socials:
 
@@ -38,7 +38,6 @@ I am deeply passionate about the exciting realms of Artificial Intelligence and 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vinhDev3006&theme=nightowl&hide_border=false&hide_title=true" width="100%"><br clear="all">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhDev3006&theme=nightowl&hide_border=false&hide_title=true&layout=compact" width="100%">
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=vinhDev3006&theme=react-dark&hide_border=true&area=true)
 
 ## 🏆 GitHub Trophies
 
