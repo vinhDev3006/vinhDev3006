@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-I am deeply passionate about the exciting realms of AI and machine learning, with a strong foundation in TensorFlow and PyTorch for developing cutting-edge neural networks. 🤖 I thrive on exploring the latest technologies and frameworks to continuously expand my skill set. 💡 Beyond the digital world, I am a fitness enthusiast, dedicating myself to health and wellness, always on the lookout for innovative ways to stay active and maintain a strong and healthy lifestyle. 💪🏋️‍♂️🌱
+I am simply a programmer 🌱
 
 ## 🌐 Socials:
 
